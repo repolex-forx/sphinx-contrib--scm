@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "scm",
+  "versions": [
+    {
+      "commit": "375af7656b6d01a55f935e61610afa14a96a576c",
+      "tag": "v0.1.5",
+      "parsed_at": "2026-11-06T18:25:43.639744+00:00"
+    }
+  ]
+}
